@@ -78,6 +78,17 @@
 	</div>
 </div>
 
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-3 col-sm-offset-5 inscription">
+			<a href="mailto:ldelriof@gmail.com"><button type="button" class="btn"><i class="fa fa-exclamation fa-spin"></i> <h5>Inscripción</h5> <i class="fa fa-exclamation fa-spin"></i></button></a>
+		</div>
+		<div class="col-sm-3 info">
+			<a href="info.php"><button type="button" class="btn"><h5>Más info</h5></button></a>
+		</div>
+	</div>
+</div>
+
 </body>
 
 
